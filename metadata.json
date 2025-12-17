@@ -1,0 +1,8 @@
+{
+  "name": "AauShop AI E-Commerce",
+  "description": "A high-end, AI-powered e-commerce platform featuring intelligent search, automated product generation, and a seamless shopping experience driven by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
